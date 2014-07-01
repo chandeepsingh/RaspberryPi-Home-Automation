@@ -1,4 +1,4 @@
-RaspberryPiHomeAutomation
+RaspberryPi Home Automation
 =========================
 
 Getting Started with Pi.docx - Setting up your Raspberry Pi <br>
